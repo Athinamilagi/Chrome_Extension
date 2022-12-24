@@ -3,8 +3,7 @@
     "version" : "1",
     "name" : "Tab_BookMarks",
     "action":{
-        "default_popup":"extension.html",
-        "default_icon": "Batman.png"
+        "default_popup":"extension.html"
     } ,
     "permissions": [
         "tabs"
