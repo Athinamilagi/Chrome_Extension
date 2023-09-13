@@ -26,4 +26,4 @@ The Tab Bookmark Chrome Extension is a lightweight tool that allows you to quick
 1. Clone or download this repository to your computer.
 
 ```bash
-git clone https://github.com/yourusername/tab-bookmark-extension.git
+https://github.com/Athinamilagi/Chrome_Extension.git
